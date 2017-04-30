@@ -1,0 +1,90 @@
+.faq_parent_cnt {
+	background-color: rgb(43,52,61);
+}
+
+.faq_cnt {
+	padding-top: 50px;
+	max-width: 1040px;
+	margin: auto;
+}
+
+.faq_cnt ul {
+	list-style-type: none;
+}
+
+.faq_cnt .left_cnt {
+	padding: 20px 10px;
+	display: inline-block;
+	max-width: calc(100% - 420px - 10px);
+	min-width: 320px;
+}
+
+@media only screen and (max-width: 730px) {
+	.faq_cnt .left_cnt {
+		max-width: 100%;
+		width: 100%;
+	}
+}
+
+.faq_cnt .left_cnt h4 {
+	font-size: 14px;
+	margin-bottom: 5px;
+}
+
+.faq_cnt .left_cnt p {
+	font-size: 14px;
+	line-height: 20px;
+}
+
+.faq_cnt .left_cnt ul {
+	padding: 0px;
+}
+
+.faq_cnt .left_cnt ul li ul {
+	padding-left: 20px;
+	list-style: disc outside none;
+}
+
+.faq_cnt .right_cnt {
+	vertical-align: top;
+	display: inline-block;
+	width: 420px;
+}
+
+@media only screen and (max-width: 730px) {
+	.faq_cnt .right_cnt {
+		width: 100%;
+	}
+}
+
+.faq_cnt .right_cnt_inner {
+	background-color: #ef5e4a;
+	padding: 20px 10px;
+	border-radius: 6px;
+	margin: 10px;
+}
+
+.faq_cnt .right_cnt_inner h3 {
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+.faq_cnt .right_cnt_inner input[type='submit'] {
+	display: block;
+	margin: 0px auto 0px;
+}
+
+.faq_cnt .right_cnt_inner input[type='text'] {
+	background-color: rgb(255,255,255);
+	color: rgba(0,0,0, .75);
+}
+
+.faq_cnt .right_cnt_inner input[type='email'] {
+	background-color: rgb(255,255,255);
+	color: rgba(0,0,0, .75);
+}
+
+.faq_cnt .right_cnt_inner label {
+	margin-top: 20px;
+	font-size: 14px;
+}

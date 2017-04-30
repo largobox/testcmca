@@ -2448,6 +2448,18 @@
 
 /* Spotlight */
 
+	section.spotlight:hover {
+		background-color: rgb(90,114,138);
+		transition: .5s;
+	}
+
+	.spotlight_reverse {
+		-moz-flex-direction: row-reverse;
+		-webkit-flex-direction: row-reverse;
+		-ms-flex-direction: row-reverse;
+		flex-direction: row-reverse;
+	}
+
 	.spotlight {
 		-moz-align-items: center;
 		-webkit-align-items: center;
