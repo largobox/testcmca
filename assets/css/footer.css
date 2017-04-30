@@ -1,3 +1,8 @@
+footer {
+	max-width: 1040px;
+	margin: auto;
+}
+
 footer ul {
 	list-style-type: none;
 }
