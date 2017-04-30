@@ -50,3 +50,13 @@
 .video_body_right .video_body_right_inner .form-field .conditions label {
 	color: rgb(255,255,255);
 }
+
+.video_body_right .video_body_right_inner input[type='text'] {
+	background-color: rgb(255,255,255);
+	color: rgba(0,0,0, .75);
+}
+
+.video_body_right .video_body_right_inner input[type='email'] {
+	background-color: rgb(255,255,255);
+	color: rgba(0,0,0, .75);
+}
