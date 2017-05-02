@@ -33,10 +33,16 @@
 }
 
 .video_body_right_inner {
-	padding: 10px;
+	padding: 20px 10px;
 	margin: 10px;
 	border-radius: 6px;
 	background-color: #ef5e4a;
+}
+
+.video_body_right .video_body_right_inner h3 {
+	color: rgb(255,255,255);
+	text-align: center;
+	
 }
 
 .video_body_right .video_body_right_inner label {
@@ -59,4 +65,9 @@
 .video_body_right .video_body_right_inner input[type='email'] {
 	background-color: rgb(255,255,255);
 	color: rgba(0,0,0, .75);
+}
+
+.video_body_right .video_body_right_inner input[type='submit'] {
+	display: block;
+	margin: auto;
 }

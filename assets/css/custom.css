@@ -48,7 +48,7 @@ ol {
   top: 75%;
   margin-left: -36px;
   margin-top: -36px;
-  background: url("/images/play-button.png") no-repeat;
+  background: url("../images/play-button.png") no-repeat;
   background-size: 100%;
   cursor: pointer;
   filter: brightness(75%);

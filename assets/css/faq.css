@@ -27,13 +27,13 @@
 }
 
 .faq_cnt .left_cnt h4 {
-	font-size: 14px;
-	margin-bottom: 5px;
+	font-size: 16px;
+	margin-bottom: 10px;
 }
 
 .faq_cnt .left_cnt p {
-	font-size: 14px;
-	line-height: 20px;
+	font-size: 16px;
+	line-height: 26px;
 }
 
 .faq_cnt .left_cnt ul {
@@ -66,7 +66,7 @@
 
 .faq_cnt .right_cnt_inner h3 {
 	text-align: center;
-	margin-bottom: 0px;
+	margin-bottom: 20px;
 }
 
 .faq_cnt .right_cnt_inner input[type='submit'] {
@@ -85,6 +85,5 @@
 }
 
 .faq_cnt .right_cnt_inner label {
-	margin-top: 20px;
-	font-size: 14px;
+	font-size: 16px;
 }

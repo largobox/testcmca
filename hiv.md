@@ -45,6 +45,7 @@ INFO TBD WILL BE RIGHT HERE
 
   <div class="video_body_right">
     <div class="video_body_right_inner">
+      <h3>Contact Us</h3>
       <form action="https://formspree.io/info@chicagocannabis.org" method="POST">
         <div class='form-field'>
           <label>Name:</label>
